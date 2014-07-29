@@ -66,6 +66,7 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 ## Integrated Development Environments
 *List of AVR nominal IDEs.*
 
+* [Atmel® Studio]()
 * [CodeVisionAVR]()
 
 # Resources
