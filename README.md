@@ -93,6 +93,8 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 
 * [AVR-Programming](https://github.com/hexagon5un/AVR-Programming) - Code examples for the book "Make: AVR Programming".
 * [AvrProjects](https://github.com/KonstantinChizhov/AvrProjects) - Different projects and drafts for Atmel's avr controllers.
+* [ATmega32 AVR](http://atmega32-avr.com/)
+* [Arduino for Projects](http://duino4projects.com/)
 
 # Other Awesome Lists
 *Other amazingly awesome lists*
