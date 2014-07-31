@@ -112,6 +112,7 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 *Useful AVR related websites.*
 
 * [AVR Freaks](http://www.avrfreaks.net/) - AVR Freaks Forum.
+* [AVR Projects](http://www.avrprojects.net/) - Free projects for 8-bit atmel avr microcontrollers.
 * [Tinkerer's AVRLib](http://www.tinkerer.eu/AVRLib/) - A small collection of code snippets which are often needed programming Atmel AVR-Controllers.
 
 ## Other Awesome Projects
