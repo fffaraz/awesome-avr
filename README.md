@@ -73,6 +73,7 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 * [libemb](https://github.com/wendlers/libemb) - A collection of libraries which try to make things needed in many MCU based projects more convinient.
 * [Pocket AVR Programmer](https://github.com/sparkfun/Pocket_AVR_Programmer) - Example firmware and board files for the Pocket AVR Programmer.
 * [avr-tutorials](https://github.com/abcminiuser/avr-tutorials) - LaTeX typeset versions of my popular AVR Tutorials.
+* [AVRliberty](https://github.com/dreamiurg/avr-liberty) - Library of routines for AVR microcontollers.
 
 # Software
 *Software for creating a development environment.*
