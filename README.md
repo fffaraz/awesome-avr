@@ -8,6 +8,7 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 	- [I2C](#i2c)
 	- [ISP](#isp)
 	- [JTAG](#jtag)
+	- [Keyboard](#keyboard)
 	- [LCD](#lcd)
 	- [PWM](#pwm)
 	- [SPI](#spi)
@@ -24,6 +25,7 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 - [Software](#software)
 	- [Compilers](#compilers)
 	- [Integrated Development Environments](#integrated-development-environments)
+	- [Simulators](#simulators)
 - [Resources](#resources)
 	- [Articles](#articles)
 	- [Books](#books)
@@ -32,28 +34,45 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
+## I2C
+
+* [i2cdevlib](https://github.com/jrowberg/i2cdevlib) - I2C device library collection for AVR/Arduino or other C++-based MCUs.
+
+## Keyboard
+
+* [tmk_keyboard](https://github.com/tmk/tmk_keyboard) - A keyboard controller firmware for Atmel AVR USB family.
+* [AVR-Keyboard](https://github.com/BathroomEpiphanies/AVR-Keyboard) - USB Keyboard firmware for Atmel AVR microcontrollers.
+
+## SPI
+
+* [AVRLib/SPI](http://www.tinkerer.eu/AVRLib/SPI/) - Serial Peripheral Interface.
+
+## USB
+
+* [v-usb](https://github.com/obdev/v-usb) - A Firmware-Only USB implementation for Atmel's AVR Microcontrollers.
+* [LUFA](https://github.com/abcminiuser/lufa) - A lightweight USB Framework for AVRs.
+* [libusbx](https://github.com/libusbx/libusbx) - A cross-platform user library providing access to USB devices.
+
+## Wireless
+
+* [rf24boot](https://github.com/nekromant/rf24boot) - nRF24L01+ bootloader for avr and other mcus.
+* [libnrf24l01p](https://github.com/omriiluz/libnrf24l01p) - NRF24L01+ Transceiver library.
+* [RF24Network](https://github.com/maniacbug/RF24Network) - Network Layer for nRF24L01(+) Radios.
+* [nrf24L01_plus](https://github.com/kehribar/nrf24L01_plus) - Portable nrf24L01+ library with auto acknowledgement and auto retransmission support.
+* [arduino-nrf24l01](https://github.com/aaronds/arduino-nrf24l01) - An Arduino port of the [nRF24L01](http://www.tinkerer.eu/AVRLib/nRF24L01) library.
+* [NRF24-BTLE-Decoder](https://github.com/omriiluz/NRF24-BTLE-Decoder) - Sniff and decode NRF24L01+ and Bluetooth Low Energy using RTL-SDR.
+* [AVRLib/nRF24L01](http://www.tinkerer.eu/AVRLib/nRF24L01/) - Nordic Semiconductor nRF24L01.
+
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
 
 * [AVR Libc](http://www.nongnu.org/avr-libc/) - A high quality C library for use with GCC on Atmel AVR microcontrollers.
-* [i2cdevlib](https://github.com/jrowberg/i2cdevlib) - I2C device library collection for AVR/Arduino or other C++-based MCUs.
-* [tmk_keyboard](https://github.com/tmk/tmk_keyboard) - A keyboard controller firmware for Atmel AVR USB family.
-* [v-usb](https://github.com/obdev/v-usb) - A Firmware-Only USB implementation for Atmel's AVR Microcontrollers.
-* [LUFA](https://github.com/abcminiuser/lufa) - A lightweight USB Framework for AVRs.
 * [light_ws2812](https://github.com/cpldcpu/light_ws2812) - A lightweight library to control WS2811/WS2812 based LEDS and LED Strings for 8-Bit AVR microcontrollers.
 * [avr-os](https://github.com/chrismoos/avr-os) - A multitasking OS for Arduino and AVR platforms.
-* [simavr](https://github.com/buserror/simavr) - A lean, mean and hackable AVR simulator for linux & OSX.
-* [rf24boot](https://github.com/nekromant/rf24boot) - nRF24L01+ bootloader for avr and other mcus.
 * [AVR-Crypto-Lib](http://avrcryptolib.das-labor.org/) - A library providing implementations of cryptographic algorithms for the AVR 8-bit microcontroller family.
-* [libusbx](https://github.com/libusbx/libusbx) - A cross-platform user library providing access to USB devices.
-* [libnrf24l01p](https://github.com/omriiluz/libnrf24l01p) - NRF24L01+ Transceiver library.
-* [RF24Network](https://github.com/maniacbug/RF24Network) - Network Layer for nRF24L01(+) Radios.
 * [libemb](https://github.com/wendlers/libemb) - A collection of libraries which try to make things needed in many MCU based projects more convinient.
-* [nrf24L01_plus](https://github.com/kehribar/nrf24L01_plus) - Portable nrf24L01+ library with auto acknowledgement and auto retransmission support.
-* [arduino-nrf24l01](https://github.com/aaronds/arduino-nrf24l01) - An Arduino port of the [nRF24L01](http://www.tinkerer.eu/AVRLib/nRF24L01) library.
-* [NRF24-BTLE-Decoder](https://github.com/omriiluz/NRF24-BTLE-Decoder) - Sniff and decode NRF24L01+ and Bluetooth Low Energy using RTL-SDR.
-* [AVRLib/SPI](http://www.tinkerer.eu/AVRLib/SPI/) - Serial Peripheral Interface.
-* [AVRLib/nRF24L01](http://www.tinkerer.eu/AVRLib/nRF24L01/) - Nordic Semiconductor nRF24L01.
+* [Pocket AVR Programmer](https://github.com/sparkfun/Pocket_AVR_Programmer) - Example firmware and board files for the Pocket AVR Programmer.
+* [avr-tutorials](https://github.com/abcminiuser/avr-tutorials) - LaTeX typeset versions of my popular AVR Tutorials.
 
 # Software
 *Software for creating a development environment.*
@@ -68,6 +87,11 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 
 * [Atmel® Studio]()
 * [CodeVisionAVR]()
+
+## Simulators
+*List of AVR Simulators*
+
+* [simavr](https://github.com/buserror/simavr) - A lean, mean and hackable AVR simulator for linux & OSX.
 
 # Resources
 *Various resources, such as books, websites, and articles for improving your AVR development skills and knowledge.*
