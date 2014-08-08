@@ -113,15 +113,16 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 
 * [AVR Freaks](http://www.avrfreaks.net/) - AVR Freaks Forum.
 * [AVR Projects](http://www.avrprojects.net/) - Free projects for 8-bit atmel avr microcontrollers.
-* [Tinkerer's AVRLib](http://www.tinkerer.eu/AVRLib/) - A small collection of code snippets which are often needed programming Atmel AVR-Controllers.
+* [Arduino for Projects](http://duino4projects.com/)
+* [ATmega32 AVR](http://atmega32-avr.com/)
+* [PIC-Microcontroller](http://pic-microcontroller.com/)
 
 ## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
 
 * [AVR-Programming](https://github.com/hexagon5un/AVR-Programming) - Code examples for the book "Make: AVR Programming".
 * [AvrProjects](https://github.com/KonstantinChizhov/AvrProjects) - Different projects and drafts for Atmel's avr controllers.
-* [ATmega32 AVR](http://atmega32-avr.com/)
-* [Arduino for Projects](http://duino4projects.com/)
+* [Tinkerer's AVRLib](http://www.tinkerer.eu/AVRLib/) - A small collection of code snippets which are often needed programming Atmel AVR-Controllers.
 
 # Other Awesome Lists
 *Other amazingly awesome lists*
