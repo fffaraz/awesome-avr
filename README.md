@@ -117,6 +117,10 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 * [ATmega32 AVR](http://atmega32-avr.com/)
 * [PIC-Microcontroller](http://pic-microcontroller.com/)
 
+## Persian Websites
+
+* [avr92](http://avr92.ir/)
+
 ## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
 
