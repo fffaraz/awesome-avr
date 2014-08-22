@@ -74,6 +74,9 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 * [Pocket AVR Programmer](https://github.com/sparkfun/Pocket_AVR_Programmer) - Example firmware and board files for the Pocket AVR Programmer.
 * [avr-tutorials](https://github.com/abcminiuser/avr-tutorials) - LaTeX typeset versions of my popular AVR Tutorials.
 * [AVRliberty](https://github.com/dreamiurg/avr-liberty) - Library of routines for AVR microcontollers.
+* [AVR-EAX-AES-bootloader](https://github.com/sirgal/AVR-EAX-AES-bootloader) - Bootloader for AVR microcontrollers featuring EAX mode encryption in 1024 bytes.
+* [ArduinoAES256](https://github.com/qistoph/ArduinoAES256) - Ilya's byte-oriented AES-256 implementation implemented for Arduino.
+* [Arduino AESLib](https://github.com/DavyLandman/AESLib) - Arduino Library for AES Encryption (source based on avr-crypto-lib).
 
 # Software
 *Software for creating a development environment.*
