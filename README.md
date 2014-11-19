@@ -84,12 +84,12 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 ## Compilers
 *List of AVR compilers*
 
-* [avr-gcc]()
+* [avr-gcc](https://gcc.gnu.org/wiki/avr-gcc)
 
 ## Integrated Development Environments
 *List of AVR nominal IDEs.*
 
-* [Atmel® Studio]()
+* [Atmel® Studio](http://www.atmel.com/tools/atmelstudio.aspx)
 * [CodeVisionAVR]()
 
 ## Simulators
