@@ -37,6 +37,7 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 ## I2C
 
 * [i2cdevlib](https://github.com/jrowberg/i2cdevlib) - I2C device library collection for AVR/Arduino or other C++-based MCUs.
+* [I2C-master-lib](https://github.com/g4lvanix/I2C-master-lib) - Lightweight I2C library for 8-bit AVRs. 
 
 ## Keyboard
 
