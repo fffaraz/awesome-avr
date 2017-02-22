@@ -78,6 +78,7 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 * [AVR-EAX-AES-bootloader](https://github.com/sirgal/AVR-EAX-AES-bootloader) - Bootloader for AVR microcontrollers featuring EAX mode encryption in 1024 bytes.
 * [ArduinoAES256](https://github.com/qistoph/ArduinoAES256) - Ilya's byte-oriented AES-256 implementation implemented for Arduino.
 * [Arduino AESLib](https://github.com/DavyLandman/AESLib) - Arduino Library for AES Encryption (source based on avr-crypto-lib).
+* [avr-libs](https://github.com/supermucca/avr-libs) - Some other libraries and code examples for interfacing AVR microcontrollers with external devices
 
 # Software
 *Software for creating a development environment.*
