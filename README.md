@@ -44,6 +44,9 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 * [tmk_keyboard](https://github.com/tmk/tmk_keyboard) - A keyboard controller firmware for Atmel AVR USB family.
 * [AVR-Keyboard](https://github.com/BathroomEpiphanies/AVR-Keyboard) - USB Keyboard firmware for Atmel AVR microcontrollers.
 
+## LCD
+* [I2CLCD](https://github.com/w0qs1/i2clcd) - A simple C library for interfacing with I2C LCDs.
+
 ## SPI
 
 * [AVRLib/SPI](http://www.tinkerer.eu/AVRLib/SPI/) - Serial Peripheral Interface.
