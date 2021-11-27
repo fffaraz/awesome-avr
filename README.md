@@ -34,6 +34,9 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
+## EEPROM
+* [i2ceeprom](https://github.com/w0qs1/i2ceeprom) - A simple C library for interfacing with 24CXX series I2C EEPROMs.
+
 ## I2C
 
 * [i2cdevlib](https://github.com/jrowberg/i2cdevlib) - I2C device library collection for AVR/Arduino or other C++-based MCUs.
