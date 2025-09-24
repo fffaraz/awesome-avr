@@ -108,6 +108,8 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 # Resources
 *Various resources, such as books, websites, and articles for improving your AVR development skills and knowledge.*
 
+[AVR Resources](https://github.com/IsaacAneek/avr-resources/) - A curated list of resources to learn AVR Atmega328p
+
 ## Articles
 *Fantastic AVR related articles.*
 
