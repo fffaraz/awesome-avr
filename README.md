@@ -137,6 +137,7 @@ A curated list of awesome AVR tools, libraries, resources, and shiny things. Ins
 ## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
 
+* [ArcDice](https://github.com/VorosEgyes/ArcDice) - Open-source digital dice built on an ATtiny13A with 7 charlieplexed LEDs, complete KiCad hardware (v2.1) and pre-compiled firmware.
 * [AVR-Programming](https://github.com/hexagon5un/AVR-Programming) - Code examples for the book "Make: AVR Programming".
 * [AvrProjects](https://github.com/KonstantinChizhov/AvrProjects) - Different projects and drafts for Atmel's avr controllers.
 * [Tinkerer's AVRLib](http://www.tinkerer.eu/AVRLib/) - A small collection of code snippets which are often needed programming Atmel AVR-Controllers.
